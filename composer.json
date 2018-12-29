@@ -1,0 +1,14 @@
+{
+    "name": "tkotosz/fndemoproject",
+    "type": "project",
+    "authors": [
+        {
+            "name": "tkotosz",
+            "email": "kotosy@gmail.com"
+        }
+    ],
+    "require": {
+        "react/socket": "^1.1",
+        "react/http": "^0.8.3"
+    }
+}
